@@ -1,0 +1,50 @@
+The gossamer is a creature from the Spelljammer campaign setting .
+***** Contents *****
+ [ show ]
+*****  2nd Edition Stats   [data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D] Edit  *****
+ [Gossamer Noble]
+                  Standard         Noble
+Climate/Terrain:  Space            Wildspace/phlogiston
+Frequency:        Uncommon         Rare
+Organization:     Shoal            Flotilla
+Activity Cycle:   Any              Any
+Diet:             Scavenger        Carnivore
+Intelligence:     Non- (0)         Semi- (2-4)
+Treasure:         Nil              Nil
+Alignment:        Neutral          Neutral
+No. Appearing:    20-200           1-8
+Armor Class:      10               4
+Movement:         Fl 12 (D)        SR 4
+Hit Dice:         1 hit point      58
+THAC0:            19               8
+No. of Attacks:   1                20
+Damage/Attack:    1d3              1d6 (x20)
+Special Attacks:  Poison stinger   Poison stinger
+Special Defenses: Nil              Nil
+Magic Resistance: Nil              Nil
+Size:             T (6" diameter)  G (120-250' diameter)
+Morale:           Unreliable (2-4) Champion (15-16)
+XP Value:         7                49,000
+****  Description   [data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D] Edit  ****
+Gossamers are the spacefaring cousins of the jellyfish. They travel in groups known as shoals. Gossamers usually drift among the rocks of asteroid fields and the junk of space sargassos, though they occasionally venture into open space . They scavenge leftover prey, cleaning areas of organic junk.
+Gossamer shoals offer beautiful color displays that communicate their moods. Contented gossamers are awash with waves of cool colors – green, blue and purple punctuated with bright flecks of yellow and orange. When danger threatens, waves of red and amber wash over the shoal from the point of contact. These displays lead some sages to theorize a group-mind among gossamer shoals.
+****  Combat   [data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D] Edit  ****
+Like the jellyfish, the standard gossamer grows stinging tentacles. The tentacles secrete a nauseating paralytic poison. A saving throw versus poison offsets the allergic reaction. Gossamers only attack prey smaller than themselves. If the offending object is larger than 1', the shoal immediately changes direction away from the offending critter. The gossamer may accidentally collide with and sting larger creatures, or foolish crewmen may touch a dead gossamer that has landed on a ship deck.
+****  Ecology   [data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D] Edit  ****
+Most of the gossamer's body consists of empty space, and depends on weightlessness to maintain its structural integrity. If introduced to a gravity plane, the gossamer collapses under its own weight and dies. Air also renders the gossamer's body liquid. Dead gossamers collapse in 1d3 minutes into viscous pools of evil-smelling liquid. The liquid is a solution of the enzymes that cause the gossamers to sting, and remains dangerous until it evaporates (one turn).
+****  Gossamer Noble   [data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D] Edit  ****
+Actually a colony of specialized life forms, the gossamer noble is 10d10' in diameter, with enormous sacs that act as sails, allowing it to navigate at spelljamming speeds. Cloudy currents and colorful lightning-like flashes fill its pearly, translucent body.
+Hundreds of tentacles trail from the noble's base. These are long (50-500'), supple hawsers with wicked spikes that inflict 1d2 points each on exposed flesh. The gossamer noble uses 1d20 of these tentacles in battle. Victims must save at -4 vs. paralyzation, and the spikes' digestive enzymes inflict an additional 1d6 points of damage per round. These solitary predators live on spacefaring life forms (including smaller spelljamming ships) and are highly dangerous. They are the prey and natural enemy of gammaroids .
+*****  References   [data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D] Edit  *****
+
+    * Spelljammer reference: MC9 Monstrous Compendium Spelljammer Appendix II
+    * TSR reference: TSR 2119
+    * ISBN: 1-56076-071-0
+   &lt;link rel="stylesheet" href="https://slot1-images.wikia.nocookie.net/__cb1581359006957/common/extensions/wikia/ImageLazyLoad/css/ImageLazyLoadNoScript.css" /&gt;
+Retrieved from " https://spelljammer.fandom.com/wiki/Gossamer?oldid=6261 "
+Categories :
+    *  Spelljammer creatures
+    *  Add category  [CategorySelectInput ]
+ Cancel   Save
+Community content is available under CC-BY-SA unless otherwise noted.
+
