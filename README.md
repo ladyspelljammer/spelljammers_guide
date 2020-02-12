@@ -10,3 +10,5 @@ helper scripts for homebrewery and scraping
 images
 
 and more
+
+WIP of doc (constantly updated atm): https://homebrewery.naturalcrit.com/share/rkQ6DYlVbI
