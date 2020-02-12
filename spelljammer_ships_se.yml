@@ -1,0 +1,126 @@
+ship:
+  name:
+  content:
+    description:
+    crew:
+    ship_uses:
+    other_configurations:
+  images:
+    deck_layout:
+    card_front:
+    card_back:
+    other:
+  stats:
+    built_by:
+    used_primarily_by:
+    tonnage:
+    hull_points:
+    crew:
+    man_days_fresh_air:
+    maneuver_class:
+    landing_land:
+    landing_water:
+    armor_rating:
+    saves_as:
+    power_type:
+    ships_rating:
+    standard_armament:
+      seige:
+        type:
+        quantity:
+        size:
+        crew:
+        notes:
+    cargo_tons:
+    keel_length:
+    beam_length:
+    source:
+    actions:
+    abilities:
+    cost:
+
+
+Built By	Unknown
+Used Primarily By	Humans
+Cost	 ?
+Tonnage	45 tons
+Hull Points	45
+Crew (Min/Max)	1/45 (total weapon crew: 4)
+Man-Days of Fresh Air	5,400
+Maneuver Class	Special
+Landing - Land	Yes
+Landing - Water	No
+Armour Rating	4
+Saves As	Best of crystal or metal
+Power Type	Unique - box helm
+Ship's Rating	4
+Standard Armament	4 Light Ballistas (crew: 1)
+Breath Weapon (crew: helmsman)
+Bite (crew: helmsman)
+2 Claws (crew: helmsman)
+Tail Grapple (crew: helmsman)
+
+Cargo	23 tons
+Keel Length	180'
+Beam Length	30'
+Source	SJR2 Realmspace
+
+
+
+Batship
+Built By	Unknown
+Used Primarily By	Humans
+Cost	 ?
+Tonnage	45 tons
+Hull Points	45
+Crew (Min/Max)	1/45 (total weapon crew: 4)
+Man-Days of Fresh Air	5,400
+Maneuver Class	Special
+Landing - Land	Yes
+Landing - Water	No
+Armour Rating	4
+Saves As	Best of crystal or metal
+Power Type	Unique - box helm
+Ship's Rating	4
+Standard Armament	4 Light Ballistas (crew: 1)
+Breath Weapon (crew: helmsman)
+Bite (crew: helmsman)
+2 Claws (crew: helmsman)
+Tail Grapple (crew: helmsman)
+
+Cargo	23 tons
+Keel Length	180'
+Beam Length	30'
+Source	SJR2 Realmspace
+The Batship is a unique spelljamming ship built by an unknown race.
+
+Contents[show]
+DescriptionEdit
+The Batship is a unique vessel that is the terror of any crystal sphere in which it is found. The ship resembles a gargantuan bat with crystalline teeth and claws, and metallic skin. In fact, the Batship looks and moves so much like a living creature, that many who have encountered it (and lived to tell the tale) believe that it is in fact alive. Many also believe that the ship is sentient. The Batship has two exposed decks, one along the vessel's back, and one along the belly. The helm is located deep within the ship's "chest" but there is no known way to get to it; no corridors or doorways leading to it. The ship actually has two distinct configurations. In normal flight mode it appears almost like any other ship; flat and non-descript with two exposed decks. In battle mode, however, the ship curls and attacks feet first, with the decks curving to follow the body. Inexplicably, the ship's gravity plane curves with the ship, so the Batship is not plagued by changes in gravity.
+
+The box helm keeps the Batship's helmsman trapped levitating inside, unaging, unhungering, and unable to be harmed. Each move made by the helmsman is mimicked by the Batship, and as a result the vessel's maneuverability is linked to the dexterity of the helmsman. The current helmsman has Dex 19, giving the ship MC A. The SR of the ship is not based on the abilities of the helmsman, but attacks with the vessel's "natural" weapons are based upon the helmsman's THAC0.
+
+When in battle, the Batship's natural weaponry is far superior to the meager conventional weaponry that the ship carries. The Batship has a quasi-magical breath weapon which allows it to spit a globular mass of semi-liquid substance which eats through an enemy ship's hull at a rate of 1 HP per round (make a save vs. acid at -5 every round after the first to see if the damage is halted). If this substance is exposed to open flame, it immediately explodes in a 17-die fireball. This breath weapon can be used up to 3 times, with 4 hours of non-use being required to recharge a single use. The ship can also bite another vessel for 1d4 HP of damage (4d10 hp against a creature), with a natural 20 on the attack roll resulting in spelljammer shock for the opposing helmsman. Each claw can attack for 1d2 HP or 2d10 hp of damage, while the tail can be used to grapple an enemy ship. The tail is also used to tow captured ships.
+
+The cloth wings of the Batship are magical, similar to a Cloak of Reflection. These wings protect the ship and crew from the following effects:
+
+Magic Missile: reflected back at caster at full strength with no save
+Shocking Grasp: nullified
+Irritation: reflected back, saving throw applies
+Ray of Enfeeblement: reflected back, saving throw applies
+Hold spells of all sorts: distorted and reflected back as Slow spells, saving throw applies
+Polymorph spells of all sorts: reflected back at caster who must save vs. spell at +2; if save fails intended form is received and system shock must be rolled
+Feeblemind: reflected back, saving throw vs. spells at +2 applies
+Entangle: nullified
+Any helm altering or damaging spell: reflected back at caster's ship at normal effect with no save
+
+All that is known of the history of the Batship is that it was created by a mage (possibly human) centuries ago in a sphere far away, where the phlogiston is very thin, and rivers in the flow rare and slow. This makes the sphere very difficult to reach. The woman at the ship's helm, Burnayette Skyansdanya, has been the helmsman since the ship's creation, and is from the same far-away sphere as the mysterious creator. She has been driven mad by her time in the box helm, but at her most lucid she claims that she is only waiting for "him" to show up to remove her curse. In recent decades the Batship has lurked in Realmspace, although it is known to have raided the spacelanes of Krynnspace in the past.
+
+CrewEdit
+The Batship can be operated by a crew consisting solely of the helmsman; however, it typically carries 12 other crew as well. These crew are needed solely to perform repairs and maintenance. In battle they man the ballistas, and serve as boarding troops to mop up any resistance that remains after the Batship's devastating attack. The crew is currently made up of human pirates, but in the past it has included many other races. If the helmsman of the Batship determines that more crew are needed (either to replace crew who have died, or simply to increase the number of crew carried) then anyone boarding the ship must save vs. spell with each step or become Charmed into becoming one of the crew. This effect can be nullified if the person is removed from the ship, and a Remove Curse is cast.
+
+Ship UsesEdit
+Raider: The Batship is a menace to shipping, since it raids ceaselessly. Countless ships have been lost or plundered at the claws of the Batship. It is unknown why the helmsman endlessly engages in these raids, but it is likely a byproduct of her insanity.
+
+Other ConfigurationsEdit
+Since the Batship is unique, there are no other configurations.

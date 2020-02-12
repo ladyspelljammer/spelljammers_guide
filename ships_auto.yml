@@ -1,0 +1,188 @@
+angelship:
+  name: angelship
+  built_by: kobolds
+  used_primarily_by: kobolds
+  cost: 39,600 gp
+  tonnage: 33 tons
+  hull_points33
+  crew: 8/33 (total weapon crew: 7)
+  man_days_fresh_air: 3,960
+  maneuver_class: c
+  landing_land: yes
+  landing_water: no
+  armor_rating: 6
+  saves_as: thick wood
+  power_type: minor helm
+  ships_rating: as per helmsman
+  standard_armament:
+    blunt ram 2 medium ballistas (crew: 2) 1 medium catapult (crew: 3)
+  cargo: 21 tons
+  keel_length: 130
+  beam_length: 135
+  source: sjr1 lost ships, p. 39-40
+
+antlership:
+  name: antlership
+  built_by: unknown
+  used_primarily_by: undead
+  cost: 60,000+ gp
+  tonnage: 55-100 tons
+  hull_points55-100
+  crew: 5-10/50-100 (total weapon crew: 2)
+  man_days_fresh_air: 6,000+
+  maneuver_class: e
+  landing_land: no
+  landing_water: no
+  armor_rating: 3
+  saves_as: bone
+  power_type: major or minor helm
+  ships_rating: as per helmsman
+  standard_armament:
+    blunt/piercing rams 2 light catapults (crew: 1)
+  cargo: 25-50 tons
+  keel_length: 45
+  beam_length: 250
+  source: sjr1 lost ships, p. 6
+
+argosy:
+  name: argosy
+  built_by: gravs
+  used_primarily_by: gravs
+  cost: 574,000 gp
+  tonnage: 140 tons
+  hull_points420
+  crew: 55/140 (total weapon crew: 12)
+  man_days_fresh_air: 16,800
+  maneuver_class: d
+  landing_land: yes
+  landing_water: no
+  armor_rating: 0
+  saves_as: stone
+  power_type: major helm
+  ships_rating: as per helmsman
+  standard_armament:
+    2 heavy ballistas (crew: 4) 2 medium ballistas (crew: 2)
+  cargo: 100 tons
+  keel_length: 95
+  beam_length: 75
+  source: mc9 monstrous compendium spelljammer appendix ii
+
+armada:
+  name: armada
+  built_by: elves
+  used_primarily_by: elves
+  cost: 210,000 gp
+  tonnage: 100 tons
+  hull_points100
+  crew: 40/100 (total weapon crew: 62 or 71)
+  man_days_fresh_air: 12,000
+  maneuver_class: d
+  landing_land: no
+  landing_water: no
+  armor_rating: 5
+  saves_as: ceramic
+  power_type: major helm
+  ships_rating: as per helmsman
+  standard_armament:
+    6 heavy ballistas (crew: 4) 6 heavy catapults (crew: 5) 2 heavy jettisons (crew: 4) 3 bombards (optional) (crew: 3)
+  cargo: 50 tons
+  keel_length: 300
+  beam_length: 30
+  source: lorebook of the void
+
+barge_of_ptah:
+  name: barge of ptah
+  built_by: humans
+  used_primarily_by: humans
+  cost: 35,000 gp
+  tonnage: 60 tons
+  hull_points60
+  crew: 24/60 (total weapon crew: 30)
+  man_days_fresh_air: 6,000
+  maneuver_class: f
+  landing_land: no
+  landing_water: yes
+  armor_rating: 8
+  saves_as: thin wood
+  power_type: major or minor helm
+  ships_rating: as per helmsman
+  standard_armament:
+    piercing ram 6 medium ballistas (crew: 2 each) 4 medium catapults (crew: 3) 2 medium jettisons (crew: 3)
+  cargo: 40 tons
+  keel_length: 145
+  beam_length: 60
+  source: sjr1 lost ships
+
+batship,_the:
+  name: batship
+  built_by: unknown
+  used_primarily_by: humans
+  cost: ?
+  tonnage: 45 tons
+  hull_points45
+  crew: 1/45 (total weapon crew: 4)
+  man_days_fresh_air: 5,400
+  maneuver_class: special
+  landing_land: yes
+  landing_water: no
+  armor_rating: 4
+  saves_as: best of crystal or metal
+  power_type: unique - box helm
+  ships_rating: 4
+  standard_armament:
+    4 light ballistas (crew: 1) breath weapon (crew: helmsman) bite (crew: helmsman) 2 claws (crew: helmsman) tail grapple (crew: helmsman)
+  cargo: 23 tons
+  keel_length: 180
+  beam_length: 30
+  source: sjr2 realmspace
+
+battle_cry:
+  name:
+
+battlewagon:
+  name: battlewagon
+  built_by: scro
+  used_primarily_by: scro
+  cost: 256,000 gp
+  tonnage: 80 tons
+  hull_points160
+  crew: 40/80 (total weapon crew: 51)
+  man_days_fresh_air: 9,600
+  maneuver_class: e
+  landing_land: no
+  landing_water: no
+  armor_rating: 3
+  saves_as: metal
+  power_type: major helm
+  ships_rating: as per helmsman
+  standard_armament:
+    blunt ram 4 bombards (crew: 3) 1 greek fire projector (crew: 3) 6 medium ballistas (crew: 2) 8 medium catapults (crew: 3)
+  cargo: 20 tons
+  keel_length: 150
+  beam_length: 50
+  source: mc9 monstrous compendium spelljammer appendix ii
+
+blade:
+  name: blade (arrow)
+  built_by: goblins (kobolds)
+  used_primarily_by: goblinkin, humans
+  cost: 3,200 gp (2,200 gp - includes cost of built-in greek fire projector)
+  tonnage: 1 ton
+  hull_points2 (1)
+  crew: 1/1 (total weapon crew: 3)
+  man_days_fresh_air: 120
+  maneuver_class: a
+  landing_land: no (yes)
+  landing_water: no
+  armor_rating: 4 (6)
+  saves_as: metal (thick wood)
+  power_type: non-magical or boat helm
+  ships_rating: 1 or as per helmsman
+  standard_armament:
+    piercing ram 1 greek fire projector (crew: 3)
+  cargo: 1/4 ton
+  keel_length: 20
+  beam_length: 20
+  source: sjr1 lost ships
+
+bloatfly:
