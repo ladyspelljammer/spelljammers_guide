@@ -716,7 +716,7 @@ Spelljamming places in Greyspace
 
 ### Realmspace
 
-<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d7ab1b5c-ffb7-4f05-ae14-7f584918b549/daef6cq-0f87a033-f613-4992-81b7-f09c24db0de5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q3YWIxYjVjLWZmYjctNGYwNS1hZTE0LTdmNTg0OTE4YjU0OVwvZGFlZjZjcS0wZjg3YTAzMy1mNjEzLTQ5OTItODFiNy1mMDljMjRkYjBkZTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tvPs_BZqJDGJKHdDwzNlzUizRsWy3KPqyLA-wkst6zs' style='opacity:0.9;width:000px' />
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d7ab1b5c-ffb7-4f05-ae14-7f584918b549/daef6cq-0f87a033-f613-4992-81b7-f09c24db0de5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q3YWIxYjVjLWZmYjctNGYwNS1hZTE0LTdmNTg0OTE4YjU0OVwvZGFlZjZjcS0wZjg3YTAzMy1mNjEzLTQ5OTItODFiNy1mMDljMjRkYjBkZTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tvPs_BZqJDGJKHdDwzNlzUizRsWy3KPqyLA-wkst6zs' style='opacity:0.9;width:300px' />
 
 ** The Sun ** Star.
 
@@ -736,12 +736,6 @@ Spelljamming places in Greyspace
 H'Catha: Flat, circular disk of water. Populated by beholders.
 
 ** Rock of Bral ** (optionally) in The Tears of Selûne or in the rings of Glyth.
-
-##### Factions
-
-&nbsp;&nbsp;&nbsp; The Shou Fleet
-
-The Imperial Elven Fleet
 
 ##### Tears of Selûne
 
@@ -1167,24 +1161,7 @@ There are many upgrade optinos for the hull and rigging avilable at some dry doc
 
 The Tinker Gnomes are renown throughout the multiverse for clever migical devices that aid in spelljamming.
 
-### Long Range Spell Focus
 
-The long range spell focus enables ranged spells to be channelled through the astral plane in wildspace, enabling spellcaster to cast spells over great distance.
-
-While wielding it as a long range spell focus, a caster can target and cast ranged spells a number of hexes away, the exact range depends on the size of the Long Range Spell Focus, lsited in the table below. The Long range Range Spell Focus can only be used in wildspace, it cannot be used when the ship is flying through atmosphere nor in wildspace. The helm must be powered up and attuned by a helmsman before the spell focus can be used.
-
-<div class='table'>
-#### Long Range Spell Focus Range
-|Size|Range (in hexes)|
-|:---:|:---:|:---:|
-|Tiny|3|
-|Small/Light|4|
-|Medium|5|
-|Large|7|
-|Huge|9|
-|Gargantuan|15|
-|Colossal|20|
-</div>
 
 <div class='pageNumber auto'></div>
 \page
@@ -1353,26 +1330,24 @@ Several Officer Actions reference and target a group of crew members. This group
 ```
 
 ### Player/NPC Crew Actions
-If a player character or npc does not have an Officer Role, they can still support the ship in a number of ways by taking a Player Crew Action. An officer may also forgo their Officer Action to take a Player Crew Action.
+If a player character or npc does not have an Officer Role, they can still support the ship in a number of ways by taking a Player Crew Action. An officer may also forgo their Officer Action to take a Player Crew Action:
 
-** 1 Hand-to-Hand Action **
+** 1 Hand-to-Hand Action ** A single full action with movement. This action is most often taken to provide assistance with the "Help" action, to heal a crew member, or to attack another ship that is in the same hex. This action can be taken at any time throughout the ship's turn.
 
-** Throw Grapple **
+** Throw Grapple ** The character or NPC makes a thrown attack against the AC of another ship sharing the same hex as the character's ship. On hit, the target does not take any damage but is effected by the grapple. If enough grapples hit, the target gains the Grappled condition.
 
-** Use Long Range Spell Focus **
+** Use Long Range Spell Focus ** The character can use the long range range spell focus to cast a spell with much greater range. The spell must be a ranged attack or aoe spell. It cannot have range of self or touch. Please see the details for the long range spell focus in the Siege Weapons section.
 
-** Aim Siege Weapon **
-
-** Lead Crew Team **
+** Aim Siege Weapon ** A character can assist a siege weapon team in aiming. If the character is proficient in siege weapons, then they can add their proficiency to the attack roll.
 
 ** Assist Officer ** Assist any one Officer with their Crew Action. This may take the form of a *Help* action with an officer's roll, assist healing, etc. This is up to the DM's discretion.
 
 ### Crew Team Actions
 A crew team can do the following:
 
-** 1 Hand-to-Hand Action ** See above.
+** 1 Hand-to-Hand Action ** A single full action with movement. Each member of the crew team takes the same/similar aaction. They can take their actions at any time throughout the ship's turn.
 
-** Throw Grapple ** See above.
+** Throw Grapple ** Each member of the crew team makes a thrown attack against the AC of another ship sharing the same hex as the crew's ship. On hit, the target does not take any damage but is effected by the grapple. If enough grapples hit, the target gains the Grappled condition.
 
 ** Repair Hull Holes **
 
@@ -1403,6 +1378,11 @@ Crewed siege weapons often have a chance of inflicting a Critical Hit to enemy v
 |10 | Spelljammer Shock
 </div>
 
+TODO: Additional Table rows?
+1. Jammed Helm
+2. Atmoosphere Decompression
+3. Spelljammer Drive Overload
+4.
 <br>
 
 ** Fire! ** A fire starts somewhere in or on the ship, the location and number of tiles to be determined by the DM.
@@ -1474,7 +1454,6 @@ Alchemist Fire Projectors lob bottles of Alchemist Fire and if someone fails tha
 
 ### Types of Siege Weapons
 
-#### Ballistas
 &nbsp;&nbsp;&nbsp; ** Ballista ** A Ballista is similar to a massive crossbow that fires heavy bolts. It utilizes torsion by twisting a pair of bound sinue or rope bundles. What it lacks in range it makes up for with accuracy. Ballistas do not have a minimum range and typically have a high Attack Bonus.
 
 ** Gnomish Sweeper ** A Gnomish Sweeper is a pair of ballistas with a shared, common mount so that they can be fired in the same direction at the same time. The two blunt bolts from these ballistas are linked with a heavy chain (similar in image to nunchaku). The intention of the chain is to be used as an antipersonnel weapon against enemy crews. As the bolts and chain pass over a ship, any creature in its path must make a Dexterity Saving throw or be knocked prone and grappled. Sweeper rounds do not damage the hull, though the Gnomish sweeper can be used to fire 2 bolts in a pinch. Like a normal Ballista, the Gnomish Sweeper does not have a minimum targetting range.
@@ -1485,15 +1464,26 @@ Alchemist Fire Projectors lob bottles of Alchemist Fire and if someone fails tha
 
 ** Bombards ** The bombard is a large calibur muzzle loaded cannon. They are one of the most feared siege weapons in wildspace due to their accuracy, range, pure damage potential. They are rare, mostly used by the Gith and occasionally Gnomish ships. Bombards do not have a minimum range.
 
-** Alchemist's Fire Projector ** This device shoots a thin stream of flaming, explosive liquid. Though it can be devastating in combat, the Alchemist's Fire Projectors are not popular with ships that cross between the spheres because of the flammability of the Flow. In fact, Alchemist's Fire projectors are recipes for disaster in the Phlogiston. They are popular, however among crews that do not leave their spheres.
+** Alchemist's Fire Projector ** This device shoots a thin stream of flaming, explosive liquid. Though it can be devastating in combat, the Alchemist's Fire Projectors are not popular with ships that cross between the spheres because of the flammability of the Flow. In fact, Alchemist's Fire projectors are recipes for disaster in the Phlogiston. They are popular, however among crews that do not leave their spheres. They have extremely limited range, the ammunition/fuel is expensive, and can be very hazerdous to their ship and crew if damaged in combat. They cannot be fired foward while the ship is in motion as it would ignite their own ship - Alchemist's Fire Projectors are usually mounted Port or Starboard, and rarely Aft on the ship.
 
+** Jettisons ** Jettisons create debris fields in hexes, discouraging ships from moving through those hexes as doing so would potentially damage the ship. When moving through a hex with a debris field, the ship must make a save, rolling a d20 + MC. On a failed save the ship takes the damage of the specific jettison payload. On a successful save, the ship takes no damage but loses 1 speed this round. Helmsman can choose to fail this save. The size and type of the Jettison Ammunition effect the DC and type of damage.
 
-** Alchemist's Fire ** While some adventuring parties know this substance as a throw-able flask of sticky, adhesive fluid, aboard a Spelljamming ship it is generally stored in stone casks for use in Alchemist's Fire Projectors and as alternate ammunition in catapults. Alchemist's Fire ignites when exposed to air. When a cask is catapulted onto an enemy deck, the stone jug breaks and immediately explodes, dealing 3d10 fire damage in a 15-foot radius sphere. Any creatures in the sphere may make a DC 14 Dex saving throw. On a success, target suffers half damage. On a failure, creatures and any other objects in the sphere are now on fire. Also may ignite other jugs in burst radius.
+** Long Range Spell Focus ** The long range spell focus enables ranged spells to be channelled through the astral plane in wildspace, enabling spellcaster to cast spells over great distance.
 
-** Jettisons ** Jettisons create debris fields in hexes, discouraging ships from moving through those hexes as doing so would potentially damage the ship. When moving through a hex with a debris field, the ship must make a save, rolling a d20 + MC. On a failed save the ship takes the damage of the specific jettison payload. On a successful save, the ship takes no damage but loses 1 speed this round. Helmsman can choose to fial this save.
+While wielding it as a long range spell focus, a caster can target and cast ranged spells a number of hexes away, the exact range depends on the size of the Long Range Spell Focus, lsited in the table below. The Long range Range Spell Focus can only be used in wildspace, it cannot be used when the ship is flying through atmosphere nor in wildspace. The helm must be powered up and attuned by a helmsman before the spell focus can be used.
 
-** Long Range Focus **
-
+<div class='table'>
+#### Long Range Spell Focus Range
+|Size|Range (in hexes)|
+|:---:|:---:|:---:|
+|Tiny|3|
+|Small/Light|4|
+|Medium|5|
+|Large|7|
+|Huge|9|
+|Gargantuan|15|
+|Colossal|20|
+</div>
 ### Ship Size and Weapon Effectivnenss
 
 Siege weapons are built to different sizes and styles, each filling a need depending on the target ship's size, range, and speed. Each siege weapon size is designed to be most effective when attacking ships of a similar size classification. A small ballista will be most efficent when attacking small spelljamming ships at short range. Likewise with a large trebechet against large ships at long range.
@@ -1505,6 +1495,9 @@ If the target ship of a siege attack is a ship size larger than the attacking si
 If the target ship is at least 2 ship sizes larger than the attacking siege weapon, the target ship is immune to the attack's damage.
 
 ### Reloading and Ammunition
+
+** Alchemist's Fire ** While some adventuring parties know this substance as a throw-able flask of sticky, adhesive fluid, aboard a Spelljamming ship it is generally stored in stone casks for use in Alchemist's Fire Projectors and as alternate ammunition in catapults. Alchemist's Fire ignites when exposed to air. When a cask is catapulted onto an enemy deck, the stone jug breaks and immediately explodes, dealing 3d10 fire damage in a 15-foot radius sphere. Any creatures in the sphere may make a DC 14 Dex saving throw. On a success, target suffers half damage. On a failure, creatures and any other objects in the sphere are now on fire. Also may ignite other jugs in burst radius.
+
 
 ### On Firing Arcs
 
