@@ -1,0 +1,4 @@
+<div class='classTable wide' style='column-count:2'></div>
+.phb#p1 {counter-increment: none;}
+.phb#p2 {counter-increment: none;}
+.phb#p1 {counter-reset: phb-page-numbers 5;}
