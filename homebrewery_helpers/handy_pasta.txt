@@ -2,3 +2,7 @@
 .phb#p1 {counter-increment: none;}
 .phb#p2 {counter-increment: none;}
 .phb#p1 {counter-reset: phb-page-numbers 5;}
+
+<img src='https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Illithid_Sorcerer.png/220px-Illithid_Sorcerer.png' style='float:right;shape-outside:url("https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Illithid_Sorcerer.png/220px-Illithid_Sorcerer.png");width:220px;shape-image-threshold:0.9;shape-margin:5px;'/>
+
+<span style="font-variant: small-caps;">Imagine a universe where square worlds spin around</span>
